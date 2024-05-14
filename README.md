@@ -1,5 +1,5 @@
 # EXE
-EXE: Explaining teXt Explanation by Aligninig Mulit-modal Streams
+EXE: Explaining teXt Explanation by Aligning Multi-modal Streams
 
 # Task
 <p align="center">
@@ -7,7 +7,7 @@ EXE: Explaining teXt Explanation by Aligninig Mulit-modal Streams
 </p>
 
 # Model Architecture
-Main stream approach is better
+Multimodal information from a single stream is better than single-stream
 <p align="center">
   <img src="https://github.com/ian-jihoonpark/EXE/assets/77654517/972fd83f-8eac-4eba-ad8c-fd5aea512547" width="400" height="400">
   <img src="https://github.com/ian-jihoonpark/EXE/assets/77654517/6d2eb4de-03cd-49c8-ad2a-40a886e5cb9a" width="400" height="400">
