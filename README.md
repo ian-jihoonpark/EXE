@@ -10,7 +10,7 @@ EXE: Explaining teXt Explanation by Aligninig Mulit-modal Streams
 Main stream approach is better
 <p align="center">
   <img src="https://github.com/ian-jihoonpark/EXE/assets/77654517/972fd83f-8eac-4eba-ad8c-fd5aea512547" width="400" height="400">
-  <img src="https://github.com/ian-jihoonpark/EXE/assets/77654517/0b1315fa-c9a9-41e1-9be4-b9f6ef599fa1" width="400" height="400">
+  <img src="https://github.com/ian-jihoonpark/EXE/assets/77654517/6d2eb4de-03cd-49c8-ad2a-40a886e5cb9a" width="400" height="400">
 </p>
 
 # Experiments
