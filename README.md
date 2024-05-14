@@ -14,8 +14,8 @@ Multimodal information from a single stream is better than single-stream
 </p>
 
 # Experiments
-Multi-stream cannot see the visual feature.
-However single-stream watch the visual feature when it generate the answer and explanation
+Multi-stream cannot see the visual feature. \
+However, single-stream watch the visual feature when it generates the answer and explanation
 <p align="center">
   <img src="https://github.com/ian-jihoonpark/EXE/assets/77654517/c4507f6f-d79f-4930-b01e-0e640dd4c5d1" width="400" height="400">
   <img src="https://github.com/ian-jihoonpark/EXE/assets/77654517/912dae93-5f11-4127-a3f0-af4ad7604771" width="400" height="400">
